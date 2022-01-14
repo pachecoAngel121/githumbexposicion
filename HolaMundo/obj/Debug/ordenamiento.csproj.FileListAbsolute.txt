@@ -1,0 +1,8 @@
+C:\Users\USUARIO\Desktop\poo\ordenamiento pacheco angel\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\Users\USUARIO\Desktop\poo\ordenamiento pacheco angel\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\USUARIO\Desktop\poo\ordenamiento pacheco angel\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\USUARIO\Desktop\poo\ordenamiento pacheco angel\HolaMundo\obj\Debug\ordenamiento.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\poo\ordenamiento pacheco angel\HolaMundo\obj\Debug\ordenamiento.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\poo\ordenamiento pacheco angel\HolaMundo\obj\Debug\ordenamiento.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\poo\ordenamiento pacheco angel\HolaMundo\obj\Debug\HolaMundo.exe
+C:\Users\USUARIO\Desktop\poo\ordenamiento pacheco angel\HolaMundo\obj\Debug\HolaMundo.pdb
